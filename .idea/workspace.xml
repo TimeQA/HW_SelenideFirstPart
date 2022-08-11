@@ -134,8 +134,8 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/example/TestSiteGithub.java</url>
-          <line>35</line>
-          <option name="timeStamp" value="23" />
+          <line>39</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
